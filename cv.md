@@ -1,0 +1,1 @@
+Hello, create a document to check how it works.
