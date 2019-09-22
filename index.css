@@ -1,7 +1,13 @@
 pre {
     font-family: "Times New Roman", Georgia, Serif;
+    
 }
 img{
     max-width: 50px;
     height: auto;
   }
+  body {
+    width: 1024px;
+    margin: auto;
+  }
+  
