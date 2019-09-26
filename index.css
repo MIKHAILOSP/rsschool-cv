@@ -5,9 +5,11 @@ pre {
 img{
     max-width: 50px;
     height: auto;
+    border-radius: 1em;
+    margin-left: 10%;
   }
   body {
     width: 1024px;
-    margin: auto;
+    margin: 0 auto;
   }
   
