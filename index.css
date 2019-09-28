@@ -5,9 +5,18 @@ pre {
 img{
     max-width: 50px;
     height: auto;
+    border-radius: 1em;
+    margin-left: 0%;
   }
   body {
     width: 1024px;
-    margin: auto;
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgba(102, 121, 230, 0.315)
+  }
+  ul {
+    list-style: square;
+    padding-left: 43%;
+    text-align:left;
   }
   
